@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+h1 {
+	background-color: blue;
+	color: yellow;
+	font-family: 'Potta One', cursive;
+	src: url(fuentes/PottaOne-Regular.ttf);
+	text-align: center;
+	width: 75vw;
+}
+
+p.turquesa {
+	color: white;
+	background-color: #008080;
+	float: left;
+	box-sizing: content-box;
+	height: 150px;
+	width: 300px;
+	position: relative;
+	top: -15px;
+}
+
+p.yellow {
+	clear: both;
+	color: yellow;
+	background-color: black;
+	line-height: 200%;
+	box-sizing: content-box;
+	display: inline;
+}
+
+hr.medio {
+	width: 50%;
+}
+
+hr.azul {
+    height: 11px;
+    background-color: blue;
+    text-align: center;
+    width: 75vw;
+}
+
+p.coda {
+	font-family: 'Coda Caption', sans-serif;
+}
+
+p.magic {
+	font-family: 'Yusei Magic', sans-serif;
+	src: url(fuentes/YuseiMagic-Regular.ttf);
+	font-weight: bold;
+}
