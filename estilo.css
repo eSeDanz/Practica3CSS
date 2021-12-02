@@ -13,7 +13,7 @@ p.turquesa {
 	color: white;
 	background-color: #008080;
 	box-sizing: content-box;
-	width: 30vw;
+	width: 25vw;
 	position: static;
 	display: inline-block;
 }
@@ -29,16 +29,23 @@ p.yellow {
 	color:yellow;
 	background-color:black;
 }
+
+div.centrado {
+	text-align: center;
+}
+
 hr.medio {
 	width: 50%;
+	display: inline-block;
+	text-align: center;
 }
 
 hr.azul {
     background-color: blue;
-    width: 75vw;
     height: 1vw;
+    width: 75vw;
     margin:0;
-    padding:0;
+    padding:0;   
 }
 
 p.coda {
