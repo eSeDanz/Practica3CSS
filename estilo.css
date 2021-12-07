@@ -64,6 +64,11 @@ hr.azul {
     padding:0; 
 }
 
+.desplazado {
+	position: relative;
+	top: -10px;
+}
+
 .coda {
 	font-family: 'Coda Caption', sans-serif;
 }
